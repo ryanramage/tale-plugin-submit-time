@@ -1,0 +1,27 @@
+{
+  "name": "tale-plugin-submit-time",
+  "version": "1.0.0",
+  "description": "A tale plugin that handles logs and submits the final time",
+  "main": "index.js",
+  "keywords": [
+    "tale",
+    "tale-plugin"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryanramage/tale-plugin-submit-time"
+  },
+  "bugs": {
+    "url": "https://github.com/ryanramage/tale-plugin-submit-time/issues"
+  },
+  "homepage": "https://github.com/ryanramage/tale-plugin-submit-time",
+  "author": "Ryan Ramage",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "store": "^1.3.16"
+  }
+}
